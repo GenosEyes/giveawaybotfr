@@ -1,4 +1,4 @@
-#Pour faire fonctionner le bot
+Pour faire fonctionner le bot
 
 1.Mettre le token et le préfix dans config.json
 
